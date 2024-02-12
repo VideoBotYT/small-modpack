@@ -1,0 +1,6 @@
+v1:
+1 is park
+2 is space
+3 is inside the house
+4 is outside the house
+5 is random

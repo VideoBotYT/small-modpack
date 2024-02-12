@@ -1,0 +1,58 @@
+{
+	"storyName": "OH NO BRO",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "regular",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"In_Your_Face",
+			"gone",
+			[
+		255,
+		255,
+		255
+			]
+		],
+		[
+			"Eternal_Slackers",
+			"Corr-rigby",
+			[
+		167,
+		132,
+		96
+			]
+		],
+		[
+			"not_so_regular",
+			"Corr-mordecai",
+			[
+		110,
+		159,
+		252
+			]
+		],
+		[
+			"Final_punchies",
+			"Corr-mordecai",
+			[
+		110,
+		159,
+		252
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WOOOOOWO"
+}
